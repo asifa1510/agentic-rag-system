@@ -1,6 +1,5 @@
 # TrustAgent
-
-A simple AI tool that checks whether a claim matches widely known public facts.
+AI Agent that checks whether a claim matches widely known public facts.
 
 Runs locally with Ollama.
 
